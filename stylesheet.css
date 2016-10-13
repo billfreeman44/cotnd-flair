@@ -1,0 +1,2069 @@
+.flair {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.flair-TEMPhephaestus {
+    width: 65px;
+    height: 68px;
+    background-position: -4px -4px;
+}
+
+.flair-TEMPmedic {
+    width: 24px;
+    height: 24px;
+    background-position: -77px -4px;
+}
+
+.flair-armadillo {
+    width: 24px;
+    height: 24px;
+    background-position: -109px -4px;
+}
+
+.flair-armadillogreen {
+    width: 24px;
+    height: 24px;
+    background-position: -141px -4px;
+}
+
+.flair-armadillomandarin {
+    width: 24px;
+    height: 24px;
+    background-position: -173px -4px;
+}
+
+.flair-armadilloyellow {
+    width: 24px;
+    height: 24px;
+    background-position: -205px -4px;
+}
+
+.flair-armoredskeletonblackv3 {
+    width: 24px;
+    height: 24px;
+    background-position: -237px -4px;
+}
+
+.flair-armoredskeletonv3 {
+    width: 24px;
+    height: 24px;
+    background-position: -269px -4px;
+}
+
+.flair-armoredskeletonyellowv3 {
+    width: 24px;
+    height: 24px;
+    background-position: -301px -4px;
+}
+
+.flair-banshee {
+    width: 34px;
+    height: 39px;
+    background-position: -333px -4px;
+}
+
+.flair-banshee2 {
+    width: 34px;
+    height: 39px;
+    background-position: -375px -4px;
+}
+
+.flair-banshee2v2 {
+    width: 34px;
+    height: 39px;
+    background-position: -417px -4px;
+}
+
+.flair-bansheev2 {
+    width: 34px;
+    height: 39px;
+    background-position: -459px -4px;
+}
+
+.flair-barrel {
+    width: 27px;
+    height: 27px;
+    background-position: -501px -4px;
+}
+
+.flair-bat {
+    width: 24px;
+    height: 24px;
+    background-position: -536px -4px;
+}
+
+.flair-batblack {
+    width: 24px;
+    height: 24px;
+    background-position: -568px -4px;
+}
+
+.flair-batgreen {
+    width: 24px;
+    height: 24px;
+    background-position: -600px -4px;
+}
+
+.flair-batminiboss {
+    width: 36px;
+    height: 24px;
+    background-position: -632px -4px;
+}
+
+.flair-batminibossyellow {
+    width: 36px;
+    height: 24px;
+    background-position: -77px -36px;
+}
+
+.flair-batred {
+    width: 24px;
+    height: 24px;
+    background-position: -121px -36px;
+}
+
+.flair-beastmaster {
+    width: 27px;
+    height: 27px;
+    background-position: -153px -36px;
+}
+
+.flair-beetle {
+    width: 32px;
+    height: 23px;
+    background-position: -188px -36px;
+}
+
+.flair-beetle2 {
+    width: 32px;
+    height: 23px;
+    background-position: -228px -36px;
+}
+
+.flair-beetle2v2 {
+    width: 32px;
+    height: 23px;
+    background-position: -268px -36px;
+}
+
+.flair-beetlev2 {
+    width: 32px;
+    height: 23px;
+    background-position: -536px -36px;
+}
+
+.flair-bell {
+    width: 35px;
+    height: 34px;
+    background-position: -576px -36px;
+}
+
+.flair-bishop {
+    width: 18px;
+    height: 32px;
+    background-position: -619px -36px;
+}
+
+.flair-bishopred {
+    width: 18px;
+    height: 32px;
+    background-position: -645px -36px;
+}
+
+.flair-blademaster {
+    width: 41px;
+    height: 28px;
+    background-position: -77px -76px;
+}
+
+.flair-blademaster2 {
+    width: 41px;
+    height: 28px;
+    background-position: -126px -76px;
+}
+
+.flair-blooddrum {
+    width: 26px;
+    height: 28px;
+    background-position: -175px -76px;
+}
+
+.flair-bomb {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -76px;
+}
+
+.flair-bossmaster {
+    width: 26px;
+    height: 31px;
+    background-position: -241px -76px;
+}
+
+.flair-cauldroncoals {
+    width: 24px;
+    height: 24px;
+    background-position: -275px -76px;
+}
+
+.flair-cauldroncoalsmimic {
+    width: 24px;
+    height: 24px;
+    background-position: -307px -76px;
+}
+
+.flair-cauldronice {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -76px;
+}
+
+.flair-cauldronicemimic {
+    width: 24px;
+    height: 24px;
+    background-position: -371px -76px;
+}
+
+.flair-charmfrost {
+    width: 21px;
+    height: 25px;
+    background-position: -671px -36px;
+}
+
+.flair-charmgluttony {
+    width: 25px;
+    height: 33px;
+    background-position: -403px -76px;
+}
+
+.flair-charmnazar {
+    width: 19px;
+    height: 29px;
+    background-position: -436px -69px;
+}
+
+.flair-charmprotection {
+    width: 17px;
+    height: 27px;
+    background-position: -463px -69px;
+}
+
+.flair-charmrisk {
+    width: 19px;
+    height: 27px;
+    background-position: -488px -69px;
+}
+
+.flair-charmstrength {
+    width: 20px;
+    height: 26px;
+    background-position: -515px -69px;
+}
+
+.flair-chest {
+    width: 24px;
+    height: 24px;
+    background-position: -543px -76px;
+}
+
+.flair-chestblack {
+    width: 24px;
+    height: 24px;
+    background-position: -619px -76px;
+}
+
+.flair-chestlocked {
+    width: 24px;
+    height: 24px;
+    background-position: -651px -76px;
+}
+
+.flair-chestwhite {
+    width: 24px;
+    height: 24px;
+    background-position: -4px -108px;
+}
+
+.flair-clone {
+    width: 24px;
+    height: 24px;
+    background-position: -36px -108px;
+}
+
+.flair-clonearia {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -108px;
+}
+
+.flair-clonebard {
+    width: 24px;
+    height: 24px;
+    background-position: -275px -108px;
+}
+
+.flair-clonebolt {
+    width: 24px;
+    height: 24px;
+    background-position: -307px -108px;
+}
+
+.flair-clonecoda {
+    width: 26px;
+    height: 29px;
+    background-position: -339px -108px;
+}
+
+.flair-clonedorian {
+    width: 25px;
+    height: 26px;
+    background-position: -436px -108px;
+}
+
+.flair-clonedove {
+    width: 20px;
+    height: 27px;
+    background-position: -373px -108px;
+}
+
+.flair-cloneeli {
+    width: 26px;
+    height: 26px;
+    background-position: -469px -108px;
+}
+
+.flair-clonemelody {
+    width: 19px;
+    height: 23px;
+    background-position: -503px -108px;
+}
+
+.flair-clonemonk {
+    width: 24px;
+    height: 24px;
+    background-position: -530px -108px;
+}
+
+.flair-codex {
+    width: 25px;
+    height: 28px;
+    background-position: -562px -108px;
+}
+
+.flair-coralriffdrums {
+    width: 41px;
+    height: 55px;
+    background-position: -595px -108px;
+}
+
+.flair-coralriffdrums2 {
+    width: 41px;
+    height: 55px;
+    background-position: -644px -108px;
+}
+
+.flair-coralriffhead {
+    width: 43px;
+    height: 60px;
+    background-position: -4px -171px;
+}
+
+.flair-coralriffhorns {
+    width: 36px;
+    height: 58px;
+    background-position: -55px -171px;
+}
+
+.flair-coralriffhorns2 {
+    width: 36px;
+    height: 58px;
+    background-position: -99px -171px;
+}
+
+.flair-coralriffkeytar {
+    width: 26px;
+    height: 55px;
+    background-position: -143px -171px;
+}
+
+.flair-coralriffkeytar2 {
+    width: 26px;
+    height: 55px;
+    background-position: -177px -171px;
+}
+
+.flair-coralriffstrings {
+    width: 45px;
+    height: 56px;
+    background-position: -211px -171px;
+}
+
+.flair-coralriffstrings2 {
+    width: 45px;
+    height: 56px;
+    background-position: -264px -171px;
+}
+
+.flair-crate {
+    width: 24px;
+    height: 24px;
+    background-position: -317px -171px;
+}
+
+.flair-deadringer {
+    width: 40px;
+    height: 41px;
+    background-position: -349px -171px;
+}
+
+.flair-deadringercharge {
+    width: 50px;
+    height: 43px;
+    background-position: -397px -171px;
+}
+
+.flair-deathmetalv2 {
+    width: 88px;
+    height: 53px;
+    background-position: -455px -171px;
+}
+
+.flair-deathmetalv4 {
+    width: 88px;
+    height: 53px;
+    background-position: -551px -171px;
+}
+
+.flair-diamonddealer {
+    width: 26px;
+    height: 24px;
+    background-position: -647px -171px;
+}
+
+.flair-doublehearttransplant {
+    width: 24px;
+    height: 24px;
+    background-position: -317px -203px;
+}
+
+.flair-dragonblue {
+    width: 61px;
+    height: 51px;
+    background-position: -349px -232px;
+}
+
+.flair-dragongreen {
+    width: 54px;
+    height: 51px;
+    background-position: -418px -232px;
+}
+
+.flair-dragonred {
+    width: 61px;
+    height: 51px;
+    background-position: -480px -232px;
+}
+
+.flair-dungeonmaster {
+    width: 57px;
+    height: 53px;
+    background-position: -549px -232px;
+}
+
+.flair-fakewallv3 {
+    width: 24px;
+    height: 55px;
+    background-position: -647px -203px;
+}
+
+.flair-feetballetshoes {
+    width: 24px;
+    height: 24px;
+    background-position: -4px -266px;
+}
+
+.flair-feetbootsexplorers {
+    width: 24px;
+    height: 24px;
+    background-position: -36px -266px;
+}
+
+.flair-feetbootslead {
+    width: 24px;
+    height: 25px;
+    background-position: -68px -266px;
+}
+
+.flair-feetbootsleaping {
+    width: 24px;
+    height: 24px;
+    background-position: -100px -266px;
+}
+
+.flair-feetbootslunging {
+    width: 15px;
+    height: 24px;
+    background-position: -676px -4px;
+}
+
+.flair-feetbootspain {
+    width: 24px;
+    height: 24px;
+    background-position: -132px -266px;
+}
+
+.flair-feetbootsspeed {
+    width: 24px;
+    height: 24px;
+    background-position: -164px -266px;
+}
+
+.flair-feetbootsstrength {
+    width: 24px;
+    height: 24px;
+    background-position: -196px -266px;
+}
+
+.flair-feetbootswinged {
+    width: 24px;
+    height: 24px;
+    background-position: -228px -266px;
+}
+
+.flair-feetgreaves {
+    width: 24px;
+    height: 24px;
+    background-position: -260px -266px;
+}
+
+.flair-fireelemental1 {
+    width: 43px;
+    height: 53px;
+    background-position: -292px -266px;
+}
+
+.flair-food1 {
+    width: 24px;
+    height: 24px;
+    background-position: -614px -266px;
+}
+
+.flair-food2 {
+    width: 24px;
+    height: 24px;
+    background-position: -646px -266px;
+}
+
+.flair-food3 {
+    width: 24px;
+    height: 24px;
+    background-position: -4px -298px;
+}
+
+.flair-food4 {
+    width: 24px;
+    height: 24px;
+    background-position: -36px -298px;
+}
+
+.flair-gargoyle1 {
+    width: 31px;
+    height: 34px;
+    background-position: -100px -298px;
+}
+
+.flair-gargoyle7 {
+    width: 24px;
+    height: 38px;
+    background-position: -139px -298px;
+}
+
+.flair-ghast {
+    width: 24px;
+    height: 24px;
+    background-position: -171px -298px;
+}
+
+.flair-ghost {
+    width: 24px;
+    height: 24px;
+    background-position: -203px -298px;
+}
+
+.flair-ghoul {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -298px;
+}
+
+.flair-goblin {
+    width: 24px;
+    height: 24px;
+    background-position: -343px -298px;
+}
+
+.flair-goblin2 {
+    width: 24px;
+    height: 24px;
+    background-position: -375px -298px;
+}
+
+.flair-goblin2v2 {
+    width: 24px;
+    height: 24px;
+    background-position: -407px -298px;
+}
+
+.flair-goblinbomber {
+    width: 26px;
+    height: 36px;
+    background-position: -439px -298px;
+}
+
+.flair-goblinsentry {
+    width: 37px;
+    height: 30px;
+    background-position: -473px -298px;
+}
+
+.flair-goblinv2 {
+    width: 24px;
+    height: 24px;
+    background-position: -518px -298px;
+}
+
+.flair-golemcrystal {
+    width: 48px;
+    height: 48px;
+    background-position: -550px -298px;
+}
+
+.flair-golemdirt {
+    width: 48px;
+    height: 48px;
+    background-position: -606px -298px;
+}
+
+.flair-golemooze {
+    width: 48px;
+    height: 48px;
+    background-position: -4px -354px;
+}
+
+.flair-golemstone {
+    width: 48px;
+    height: 48px;
+    background-position: -60px -354px;
+}
+
+.flair-gong {
+    width: 42px;
+    height: 41px;
+    background-position: -116px -354px;
+}
+
+.flair-harpy {
+    width: 41px;
+    height: 32px;
+    background-position: -166px -354px;
+}
+
+.flair-headblasthelm {
+    width: 22px;
+    height: 21px;
+    background-position: -662px -298px;
+}
+
+.flair-headcirclettelepathy {
+    width: 24px;
+    height: 24px;
+    background-position: -267px -327px;
+}
+
+.flair-headcrownofgreed {
+    width: 24px;
+    height: 24px;
+    background-position: -299px -327px;
+}
+
+.flair-headcrownofteleportation {
+    width: 24px;
+    height: 24px;
+    background-position: -662px -327px;
+}
+
+.flair-headcrownofthorns {
+    width: 24px;
+    height: 24px;
+    background-position: -215px -359px;
+}
+
+.flair-headglassjaw {
+    width: 20px;
+    height: 14px;
+    background-position: -68px -327px;
+}
+
+.flair-headhelmet {
+    width: 24px;
+    height: 24px;
+    background-position: -247px -359px;
+}
+
+.flair-headminerscap {
+    width: 24px;
+    height: 24px;
+    background-position: -279px -359px;
+}
+
+.flair-headmonocle {
+    width: 24px;
+    height: 24px;
+    background-position: -311px -359px;
+}
+
+.flair-headninjamask {
+    width: 24px;
+    height: 24px;
+    background-position: -343px -359px;
+}
+
+.flair-headsunglasses {
+    width: 30px;
+    height: 24px;
+    background-position: -375px -359px;
+}
+
+.flair-hearttransplant {
+    width: 24px;
+    height: 24px;
+    background-position: -413px -359px;
+}
+
+.flair-hellhound {
+    width: 25px;
+    height: 24px;
+    background-position: -445px -359px;
+}
+
+.flair-holywater {
+    width: 24px;
+    height: 24px;
+    background-position: -478px -359px;
+}
+
+.flair-iceelemental1 {
+    width: 43px;
+    height: 53px;
+    background-position: -510px -354px;
+}
+
+.flair-janitor {
+    width: 36px;
+    height: 33px;
+    background-position: -561px -354px;
+}
+
+.flair-king {
+    width: 25px;
+    height: 45px;
+    background-position: -605px -359px;
+}
+
+.flair-kingconga {
+    width: 58px;
+    height: 79px;
+    background-position: -4px -412px;
+}
+
+.flair-kingred {
+    width: 25px;
+    height: 45px;
+    background-position: -638px -359px;
+}
+
+.flair-knight {
+    width: 23px;
+    height: 28px;
+    background-position: -70px -412px;
+}
+
+.flair-knightred {
+    width: 23px;
+    height: 28px;
+    background-position: -101px -412px;
+}
+
+.flair-leprechaun {
+    width: 16px;
+    height: 24px;
+    background-position: -308px -36px;
+}
+
+.flair-lich {
+    width: 24px;
+    height: 30px;
+    background-position: -132px -412px;
+}
+
+.flair-lichblack {
+    width: 24px;
+    height: 30px;
+    background-position: -164px -412px;
+}
+
+.flair-lichred {
+    width: 24px;
+    height: 30px;
+    background-position: -196px -412px;
+}
+
+.flair-lordcrown {
+    width: 24px;
+    height: 24px;
+    background-position: -228px -412px;
+}
+
+.flair-merlin {
+    width: 32px;
+    height: 39px;
+    background-position: -260px -412px;
+}
+
+.flair-minotaur {
+    width: 50px;
+    height: 49px;
+    background-position: -300px -412px;
+}
+
+.flair-minotaur2 {
+    width: 50px;
+    height: 49px;
+    background-position: -358px -412px;
+}
+
+.flair-misccompass {
+    width: 24px;
+    height: 24px;
+    background-position: -416px -412px;
+}
+
+.flair-misccoupon {
+    width: 26px;
+    height: 21px;
+    background-position: -448px -412px;
+}
+
+.flair-misckey {
+    width: 24px;
+    height: 24px;
+    background-position: -561px -412px;
+}
+
+.flair-misckeyglass {
+    width: 24px;
+    height: 24px;
+    background-position: -593px -412px;
+}
+
+.flair-misckeygolden {
+    width: 24px;
+    height: 24px;
+    background-position: -625px -412px;
+}
+
+.flair-miscmap {
+    width: 24px;
+    height: 24px;
+    background-position: -657px -412px;
+}
+
+.flair-miscpotion {
+    width: 24px;
+    height: 24px;
+    background-position: -228px -444px;
+}
+
+.flair-mole {
+    width: 24px;
+    height: 24px;
+    background-position: -416px -444px;
+}
+
+.flair-mommy {
+    width: 40px;
+    height: 45px;
+    background-position: -448px -444px;
+}
+
+.flair-monkey {
+    width: 25px;
+    height: 24px;
+    background-position: -496px -444px;
+}
+
+.flair-monkeymagic {
+    width: 25px;
+    height: 24px;
+    background-position: -529px -444px;
+}
+
+.flair-monkeywhite {
+    width: 25px;
+    height: 24px;
+    background-position: -562px -444px;
+}
+
+.flair-monkeyyellow {
+    width: 25px;
+    height: 24px;
+    background-position: -595px -444px;
+}
+
+.flair-mummy {
+    width: 14px;
+    height: 14px;
+    background-position: -678px -266px;
+}
+
+.flair-mushroom {
+    width: 25px;
+    height: 24px;
+    background-position: -628px -444px;
+}
+
+.flair-mushroomexploding {
+    width: 24px;
+    height: 24px;
+    background-position: -661px -444px;
+}
+
+.flair-mushroomlight {
+    width: 24px;
+    height: 24px;
+    background-position: -70px -476px;
+}
+
+.flair-mushroomsuper {
+    width: 25px;
+    height: 24px;
+    background-position: -102px -476px;
+}
+
+.flair-necrodancer {
+    width: 44px;
+    height: 53px;
+    background-position: -135px -476px;
+}
+
+.flair-necroshield {
+    width: 48px;
+    height: 21px;
+    background-position: -187px -476px;
+}
+
+.flair-nightmare {
+    width: 58px;
+    height: 42px;
+    background-position: -243px -476px;
+}
+
+.flair-nightmare2 {
+    width: 58px;
+    height: 42px;
+    background-position: -309px -476px;
+}
+
+.flair-npcconjurer {
+    width: 63px;
+    height: 41px;
+    background-position: -375px -476px;
+}
+
+.flair-npcpawnbroker {
+    width: 49px;
+    height: 59px;
+    background-position: -496px -476px;
+}
+
+.flair-npcpawnbrokerattack {
+    width: 25px;
+    height: 24px;
+    background-position: -553px -476px;
+}
+
+.flair-npcshriner {
+    width: 39px;
+    height: 20px;
+    background-position: -586px -476px;
+}
+
+.flair-npctransmogrifier {
+    width: 26px;
+    height: 27px;
+    background-position: -633px -476px;
+}
+
+.flair-ogre {
+    width: 45px;
+    height: 48px;
+    background-position: -4px -511px;
+}
+
+.flair-pawn {
+    width: 15px;
+    height: 23px;
+    background-position: -671px -359px;
+}
+
+.flair-pawnred {
+    width: 15px;
+    height: 23px;
+    background-position: -667px -476px;
+}
+
+.flair-pickaxe {
+    width: 24px;
+    height: 24px;
+    background-position: -187px -507px;
+}
+
+.flair-pixie {
+    width: 24px;
+    height: 24px;
+    background-position: -446px -507px;
+}
+
+.flair-poltergeist {
+    width: 24px;
+    height: 24px;
+    background-position: -586px -507px;
+}
+
+.flair-queen {
+    width: 33px;
+    height: 39px;
+    background-position: -57px -511px;
+}
+
+.flair-queenred {
+    width: 33px;
+    height: 39px;
+    background-position: -618px -511px;
+}
+
+.flair-resourcediamond {
+    width: 24px;
+    height: 24px;
+    background-position: -667px -507px;
+}
+
+.flair-resourcediamond2 {
+    width: 24px;
+    height: 24px;
+    background-position: -98px -539px;
+}
+
+.flair-resourcediamond3 {
+    width: 24px;
+    height: 24px;
+    background-position: -130px -539px;
+}
+
+.flair-ringbecoming {
+    width: 22px;
+    height: 19px;
+    background-position: -162px -539px;
+}
+
+.flair-ringcharisma {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -539px;
+}
+
+.flair-ringcourage {
+    width: 24px;
+    height: 24px;
+    background-position: -224px -539px;
+}
+
+.flair-ringgold {
+    width: 24px;
+    height: 24px;
+    background-position: -256px -539px;
+}
+
+.flair-ringluck {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -539px;
+}
+
+.flair-ringmana {
+    width: 24px;
+    height: 24px;
+    background-position: -320px -539px;
+}
+
+.flair-ringmight {
+    width: 24px;
+    height: 24px;
+    background-position: -352px -539px;
+}
+
+.flair-ringpeace {
+    width: 24px;
+    height: 24px;
+    background-position: -384px -539px;
+}
+
+.flair-ringphasing {
+    width: 24px;
+    height: 24px;
+    background-position: -416px -539px;
+}
+
+.flair-ringprotection {
+    width: 24px;
+    height: 24px;
+    background-position: -448px -539px;
+}
+
+.flair-ringregeneration {
+    width: 24px;
+    height: 24px;
+    background-position: -553px -539px;
+}
+
+.flair-ringshadows {
+    width: 24px;
+    height: 24px;
+    background-position: -585px -539px;
+}
+
+.flair-ringshielding {
+    width: 24px;
+    height: 24px;
+    background-position: -659px -539px;
+}
+
+.flair-ringwar {
+    width: 24px;
+    height: 24px;
+    background-position: -4px -571px;
+}
+
+.flair-ringwonder {
+    width: 22px;
+    height: 21px;
+    background-position: -36px -571px;
+}
+
+.flair-rook {
+    width: 19px;
+    height: 26px;
+    background-position: -66px -571px;
+}
+
+.flair-rookred {
+    width: 19px;
+    height: 26px;
+    background-position: -93px -571px;
+}
+
+.flair-sarcophagus {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -571px;
+}
+
+.flair-sarcophagus2 {
+    width: 24px;
+    height: 24px;
+    background-position: -152px -571px;
+}
+
+.flair-sarcophagus3 {
+    width: 24px;
+    height: 24px;
+    background-position: -184px -571px;
+}
+
+.flair-scrollblack {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -571px;
+}
+
+.flair-scrollbrown {
+    width: 24px;
+    height: 24px;
+    background-position: -248px -571px;
+}
+
+.flair-scrollgreen {
+    width: 24px;
+    height: 24px;
+    background-position: -280px -571px;
+}
+
+.flair-scrollmagenta {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -571px;
+}
+
+.flair-scrollorange {
+    width: 24px;
+    height: 24px;
+    background-position: -344px -571px;
+}
+
+.flair-scrollpurple {
+    width: 24px;
+    height: 24px;
+    background-position: -376px -571px;
+}
+
+.flair-scrollred {
+    width: 24px;
+    height: 24px;
+    background-position: -408px -571px;
+}
+
+.flair-scrollteal {
+    width: 24px;
+    height: 24px;
+    background-position: -440px -571px;
+}
+
+.flair-scrolltransmute {
+    width: 24px;
+    height: 24px;
+    background-position: -472px -571px;
+}
+
+.flair-scrollwhite {
+    width: 24px;
+    height: 24px;
+    background-position: -504px -571px;
+}
+
+.flair-scrollyellow {
+    width: 24px;
+    height: 24px;
+    background-position: -536px -571px;
+}
+
+.flair-shopkeeper {
+    width: 47px;
+    height: 38px;
+    background-position: -568px -571px;
+}
+
+.flair-shopkeeper2 {
+    width: 47px;
+    height: 38px;
+    background-position: -623px -571px;
+}
+
+.flair-shopkeeper3 {
+    width: 47px;
+    height: 38px;
+    background-position: -4px -617px;
+}
+
+.flair-shopkeeper4 {
+    width: 47px;
+    height: 38px;
+    background-position: -59px -617px;
+}
+
+.flair-shopkeeperghost {
+    width: 47px;
+    height: 38px;
+    background-position: -114px -617px;
+}
+
+.flair-shopkeepermonstrous {
+    width: 47px;
+    height: 38px;
+    background-position: -169px -617px;
+}
+
+.flair-shovelbasic {
+    width: 24px;
+    height: 24px;
+    background-position: -224px -617px;
+}
+
+.flair-shovelcrystal {
+    width: 24px;
+    height: 24px;
+    background-position: -256px -617px;
+}
+
+.flair-shovelglass {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -617px;
+}
+
+.flair-shovelobsidian {
+    width: 26px;
+    height: 26px;
+    background-position: -320px -617px;
+}
+
+.flair-shovelshard {
+    width: 24px;
+    height: 24px;
+    background-position: -354px -617px;
+}
+
+.flair-shoveltitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -386px -617px;
+}
+
+.flair-shovemonster {
+    width: 26px;
+    height: 26px;
+    background-position: -418px -617px;
+}
+
+.flair-shovemonstergray {
+    width: 26px;
+    height: 26px;
+    background-position: -452px -617px;
+}
+
+.flair-skeleton {
+    width: 24px;
+    height: 25px;
+    background-position: -486px -617px;
+}
+
+.flair-skeletonblack {
+    width: 27px;
+    height: 25px;
+    background-position: -518px -617px;
+}
+
+.flair-skeletonknight {
+    width: 36px;
+    height: 42px;
+    background-position: -553px -617px;
+}
+
+.flair-skeletonknight2 {
+    width: 36px;
+    height: 42px;
+    background-position: -597px -617px;
+}
+
+.flair-skeletonknight3 {
+    width: 36px;
+    height: 42px;
+    background-position: -641px -617px;
+}
+
+.flair-skeletonmageblack {
+    width: 21px;
+    height: 27px;
+    background-position: -700px -4px;
+}
+
+.flair-skeletonmagewhite {
+    width: 21px;
+    height: 27px;
+    background-position: -700px -39px;
+}
+
+.flair-skeletonmageyellow {
+    width: 21px;
+    height: 27px;
+    background-position: -693px -74px;
+}
+
+.flair-skeletonspearman {
+    width: 24px;
+    height: 25px;
+    background-position: -693px -109px;
+}
+
+.flair-skeletonyellow {
+    width: 27px;
+    height: 25px;
+    background-position: -693px -142px;
+}
+
+.flair-sleepinggoblin {
+    width: 24px;
+    height: 24px;
+    background-position: -681px -175px;
+}
+
+.flair-sleepinggoblinv2 {
+    width: 24px;
+    height: 24px;
+    background-position: -679px -207px;
+}
+
+.flair-slimeblue {
+    width: 26px;
+    height: 25px;
+    background-position: -692px -288px;
+}
+
+.flair-slimefire {
+    width: 26px;
+    height: 26px;
+    background-position: -694px -321px;
+}
+
+.flair-slimegreen {
+    width: 26px;
+    height: 26px;
+    background-position: -694px -355px;
+}
+
+.flair-slimeice {
+    width: 26px;
+    height: 26px;
+    background-position: -694px -389px;
+}
+
+.flair-slimeorange {
+    width: 26px;
+    height: 26px;
+    background-position: -693px -423px;
+}
+
+.flair-spellbomb {
+    width: 26px;
+    height: 24px;
+    background-position: -693px -457px;
+}
+
+.flair-spellcharm {
+    width: 27px;
+    height: 26px;
+    background-position: -691px -539px;
+}
+
+.flair-spellfireball {
+    width: 24px;
+    height: 24px;
+    background-position: -678px -573px;
+}
+
+.flair-spellfreezeenemies {
+    width: 24px;
+    height: 27px;
+    background-position: -685px -605px;
+}
+
+.flair-spellheal {
+    width: 25px;
+    height: 24px;
+    background-position: -685px -640px;
+}
+
+.flair-spellshield {
+    width: 24px;
+    height: 24px;
+    background-position: -4px -672px;
+}
+
+.flair-spelltransmute {
+    width: 27px;
+    height: 26px;
+    background-position: -36px -672px;
+}
+
+.flair-spider {
+    width: 26px;
+    height: 20px;
+    background-position: -501px -39px;
+}
+
+.flair-tarmonster {
+    width: 24px;
+    height: 24px;
+    background-position: -71px -672px;
+}
+
+.flair-tehurn {
+    width: 24px;
+    height: 28px;
+    background-position: -103px -672px;
+}
+
+.flair-torch1 {
+    width: 24px;
+    height: 24px;
+    background-position: -135px -672px;
+}
+
+.flair-torch2 {
+    width: 24px;
+    height: 24px;
+    background-position: -167px -672px;
+}
+
+.flair-torch3 {
+    width: 24px;
+    height: 24px;
+    background-position: -199px -672px;
+}
+
+.flair-torchforesight {
+    width: 24px;
+    height: 24px;
+    background-position: -231px -672px;
+}
+
+.flair-torchglass {
+    width: 24px;
+    height: 27px;
+    background-position: -263px -672px;
+}
+
+.flair-torchinfernal {
+    width: 24px;
+    height: 24px;
+    background-position: -295px -672px;
+}
+
+.flair-torchobsidian {
+    width: 24px;
+    height: 27px;
+    background-position: -327px -672px;
+}
+
+.flair-trainer {
+    width: 26px;
+    height: 24px;
+    background-position: -359px -672px;
+}
+
+.flair-trainingsarcophagus {
+    width: 24px;
+    height: 24px;
+    background-position: -393px -672px;
+}
+
+.flair-trapchestlockedv4 {
+    width: 24px;
+    height: 26px;
+    background-position: -425px -672px;
+}
+
+.flair-trapchestv4 {
+    width: 24px;
+    height: 26px;
+    background-position: -457px -672px;
+}
+
+.flair-trapchestwhitev4 {
+    width: 24px;
+    height: 26px;
+    background-position: -489px -672px;
+}
+
+.flair-trollolo {
+    width: 49px;
+    height: 44px;
+    background-position: -521px -672px;
+}
+
+.flair-undeadelf {
+    width: 24px;
+    height: 24px;
+    background-position: -578px -672px;
+}
+
+.flair-undeadsanta {
+    width: 52px;
+    height: 46px;
+    background-position: -610px -667px;
+}
+
+.flair-wardrum {
+    width: 26px;
+    height: 28px;
+    background-position: -670px -672px;
+}
+
+.flair-warlock {
+    width: 26px;
+    height: 31px;
+    background-position: -729px -4px;
+}
+
+.flair-warlock2 {
+    width: 26px;
+    height: 31px;
+    background-position: -729px -43px;
+}
+
+.flair-weaponblunderbuss {
+    width: 25px;
+    height: 36px;
+    background-position: -725px -82px;
+}
+
+.flair-weaponbow {
+    width: 25px;
+    height: 26px;
+    background-position: -68px -126px;
+}
+
+.flair-weaponbowblood {
+    width: 25px;
+    height: 26px;
+    background-position: -101px -126px;
+}
+
+.flair-weaponbowglass {
+    width: 25px;
+    height: 26px;
+    background-position: -134px -126px;
+}
+
+.flair-weaponbowgolden {
+    width: 25px;
+    height: 26px;
+    background-position: -167px -126px;
+}
+
+.flair-weaponbowobsidian {
+    width: 25px;
+    height: 26px;
+    background-position: -241px -126px;
+}
+
+.flair-weaponbowtitanium {
+    width: 25px;
+    height: 26px;
+    background-position: -401px -126px;
+}
+
+.flair-weaponbroadsword {
+    width: 24px;
+    height: 24px;
+    background-position: -728px -126px;
+}
+
+.flair-weaponbroadswordblood {
+    width: 24px;
+    height: 24px;
+    background-position: -728px -158px;
+}
+
+.flair-weaponbroadswordglass {
+    width: 24px;
+    height: 24px;
+    background-position: -713px -190px;
+}
+
+.flair-weaponbroadswordgolden {
+    width: 24px;
+    height: 24px;
+    background-position: -711px -222px;
+}
+
+.flair-weaponbroadswordobsidian {
+    width: 26px;
+    height: 26px;
+    background-position: -700px -254px;
+}
+
+.flair-weaponbroadswordtitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -726px -288px;
+}
+
+.flair-weaponcat {
+    width: 24px;
+    height: 24px;
+    background-position: -728px -320px;
+}
+
+.flair-weaponcatblood {
+    width: 24px;
+    height: 24px;
+    background-position: -728px -352px;
+}
+
+.flair-weaponcatglass {
+    width: 24px;
+    height: 24px;
+    background-position: -728px -384px;
+}
+
+.flair-weaponcatgold {
+    width: 24px;
+    height: 24px;
+    background-position: -728px -416px;
+}
+
+.flair-weaponcatobsidian {
+    width: 25px;
+    height: 24px;
+    background-position: -727px -448px;
+}
+
+.flair-weaponcattitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -727px -480px;
+}
+
+.flair-weaponcrossbow {
+    width: 27px;
+    height: 27px;
+    background-position: -726px -512px;
+}
+
+.flair-weaponcrossbowblood {
+    width: 27px;
+    height: 27px;
+    background-position: -726px -547px;
+}
+
+.flair-weaponcrossbowglass {
+    width: 27px;
+    height: 27px;
+    background-position: -717px -582px;
+}
+
+.flair-weaponcrossbowgolden {
+    width: 27px;
+    height: 27px;
+    background-position: -718px -617px;
+}
+
+.flair-weaponcrossbowobsidian {
+    width: 27px;
+    height: 27px;
+    background-position: -718px -652px;
+}
+
+.flair-weaponcrossbowtitanium {
+    width: 27px;
+    height: 27px;
+    background-position: -704px -687px;
+}
+
+.flair-weapondagger {
+    width: 24px;
+    height: 24px;
+    background-position: -4px -722px;
+}
+
+.flair-weapondaggerblood {
+    width: 24px;
+    height: 24px;
+    background-position: -36px -722px;
+}
+
+.flair-weapondaggerfrost {
+    width: 24px;
+    height: 24px;
+    background-position: -68px -722px;
+}
+
+.flair-weapondaggerglass {
+    width: 24px;
+    height: 24px;
+    background-position: -100px -722px;
+}
+
+.flair-weapondaggergolden {
+    width: 24px;
+    height: 24px;
+    background-position: -132px -722px;
+}
+
+.flair-weapondaggerjeweled {
+    width: 24px;
+    height: 24px;
+    background-position: -164px -722px;
+}
+
+.flair-weapondaggerobsidian {
+    width: 24px;
+    height: 24px;
+    background-position: -196px -722px;
+}
+
+.flair-weapondaggerphasing {
+    width: 24px;
+    height: 24px;
+    background-position: -228px -722px;
+}
+
+.flair-weapondaggershard {
+    width: 24px;
+    height: 24px;
+    background-position: -260px -722px;
+}
+
+.flair-weapondaggertitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -292px -722px;
+}
+
+.flair-weaponflail {
+    width: 24px;
+    height: 24px;
+    background-position: -324px -722px;
+}
+
+.flair-weaponflailblood {
+    width: 24px;
+    height: 24px;
+    background-position: -356px -722px;
+}
+
+.flair-weaponflailglass {
+    width: 24px;
+    height: 24px;
+    background-position: -388px -722px;
+}
+
+.flair-weaponflailgold {
+    width: 24px;
+    height: 24px;
+    background-position: -420px -722px;
+}
+
+.flair-weaponflailobsidian {
+    width: 24px;
+    height: 24px;
+    background-position: -452px -722px;
+}
+
+.flair-weaponflailtitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -484px -722px;
+}
+
+.flair-weaponflower {
+    width: 24px;
+    height: 24px;
+    background-position: -578px -722px;
+}
+
+.flair-weapongoldenlute {
+    width: 30px;
+    height: 25px;
+    background-position: -610px -722px;
+}
+
+.flair-weaponlongsword {
+    width: 24px;
+    height: 24px;
+    background-position: -648px -722px;
+}
+
+.flair-weaponlongswordblood {
+    width: 24px;
+    height: 24px;
+    background-position: -680px -722px;
+}
+
+.flair-weaponlongswordglass {
+    width: 24px;
+    height: 24px;
+    background-position: -712px -722px;
+}
+
+.flair-weaponlongswordgolden {
+    width: 24px;
+    height: 24px;
+    background-position: -763px -4px;
+}
+
+.flair-weaponlongswordobsidian {
+    width: 26px;
+    height: 27px;
+    background-position: -758px -82px;
+}
+
+.flair-weaponlongswordtitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -763px -36px;
+}
+
+.flair-weaponmaster {
+    width: 48px;
+    height: 34px;
+    background-position: -4px -754px;
+}
+
+.flair-weaponrapier {
+    width: 26px;
+    height: 27px;
+    background-position: -760px -117px;
+}
+
+.flair-weaponrapierblood {
+    width: 26px;
+    height: 27px;
+    background-position: -760px -152px;
+}
+
+.flair-weaponrapierglass {
+    width: 26px;
+    height: 27px;
+    background-position: -760px -187px;
+}
+
+.flair-weaponrapiergolden {
+    width: 26px;
+    height: 27px;
+    background-position: -743px -222px;
+}
+
+.flair-weaponrapierobsidian {
+    width: 26px;
+    height: 27px;
+    background-position: -758px -257px;
+}
+
+.flair-weaponrapiertitanium {
+    width: 26px;
+    height: 27px;
+    background-position: -760px -292px;
+}
+
+.flair-weaponrifle {
+    width: 25px;
+    height: 37px;
+    background-position: -760px -327px;
+}
+
+.flair-weaponspear {
+    width: 24px;
+    height: 24px;
+    background-position: -760px -372px;
+}
+
+.flair-weaponspearblood {
+    width: 24px;
+    height: 24px;
+    background-position: -760px -404px;
+}
+
+.flair-weaponspearglass {
+    width: 24px;
+    height: 24px;
+    background-position: -760px -436px;
+}
+
+.flair-weaponspeargolden {
+    width: 24px;
+    height: 24px;
+    background-position: -760px -468px;
+}
+
+.flair-weaponspearobsidian {
+    width: 24px;
+    height: 24px;
+    background-position: -761px -500px;
+}
+
+.flair-weaponspeartitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -761px -532px;
+}
+
+.flair-weaponwhip {
+    width: 24px;
+    height: 24px;
+    background-position: -761px -564px;
+}
+
+.flair-weaponwhipblood {
+    width: 24px;
+    height: 24px;
+    background-position: -753px -596px;
+}
+
+.flair-weaponwhipglass {
+    width: 24px;
+    height: 24px;
+    background-position: -753px -628px;
+}
+
+.flair-weaponwhipgolden {
+    width: 24px;
+    height: 24px;
+    background-position: -753px -660px;
+}
+
+.flair-weaponwhipobsidian {
+    width: 24px;
+    height: 24px;
+    background-position: -744px -692px;
+}
+
+.flair-weaponwhiptitanium {
+    width: 24px;
+    height: 24px;
+    background-position: -516px -724px;
+}
+
+.flair-wight {
+    width: 24px;
+    height: 24px;
+    background-position: -744px -724px;
+}
+
+.flair-wraith {
+    width: 24px;
+    height: 24px;
+    background-position: -60px -756px;
+}
+
+.flair-yeti {
+    width: 68px;
+    height: 40px;
+    background-position: -92px -754px;
+}
+
+.flair-zombie {
+    width: 24px;
+    height: 25px;
+    background-position: -168px -756px;
+}
+
+.flair-zombiev2 {
+    width: 24px;
+    height: 25px;
+    background-position: -200px -756px;
+}
+
+.flair-zombiev3 {
+    width: 24px;
+    height: 25px;
+    background-position: -232px -756px;
+}
+
+.flair-zombiev4 {
+    width: 24px;
+    height: 25px;
+    background-position: -264px -756px;
+}

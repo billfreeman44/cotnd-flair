@@ -57,7 +57,7 @@ for img in cimgs:
             #loop over number of sets
             for set_number in range(nset[index]):
                 skip_factor=abs(ncols[index]/nset[index])
-                print set_number,ncols[index],nset[index],skip_factor
+                print img,set_number,ncols[index],nset[index],skip_factor
                 single_width=nx/ncols[index]
                 im1=z
                 left=single_width*(set_number*skip_factor)
