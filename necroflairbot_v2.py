@@ -15,7 +15,7 @@ now = datetime.datetime.now()
 user_agent = "Edits flairs on /r/necrodancer - made by mynameismunka"
 username='necroflairbot'
 steamapi=steamapi[0:-1]
-n_pages_max=5
+n_pages_max=500
 
 
 
@@ -241,7 +241,7 @@ for i in range(len(output_version)):
     '&steamid='+str(output_steam_id[i])+'&format=json'
     #print apicall
     response = urllib.urlopen(apicall)
-    print response
+    #print response
     try:
         jsondata= json.loads(response.read())
         total=0
